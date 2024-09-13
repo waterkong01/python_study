@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update">
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/튜플과집합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python/KH_basic/딕셔너리커피메뉴.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/KH_basic/딕셔너리커피메뉴.py" afterDir="false" />
     </list>
@@ -87,6 +88,7 @@
     "Python.자료형.executor": "Run",
     "Python.조건문.executor": "Run",
     "Python.조건문응용.executor": "Run",
+    "Python.튜플과집합.executor": "Run",
     "Python.핸드폰요금.executor": "Run",
     "Python.행사안내메일발송하기.executor": "Run",
     "Python.홀수짝수나누어담기.executor": "Run",
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726213184520</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="240913 update">
+      <option name="closed" value="true" />
+      <created>1726213368412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726213368412</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
