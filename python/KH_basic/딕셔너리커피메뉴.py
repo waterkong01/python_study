@@ -19,7 +19,7 @@ file_name = "menu.json"
 # 파일에서 메뉴를 읽어오는 함수
 def load_menu():
     try:
-        with open(file_name, "r", encoding="utf-8") as file:
+        with open("menu.json", "r", encoding="utf-8") as file:
             return json.load(file)
     except FileNotFoundError:
         print("해당 파일이 없습니다.")
@@ -28,7 +28,7 @@ def load_menu():
         
 # 파일에 저장하는 함수
 def save_menu():
-    with open(file_name, "w", encoding="utf-8") as file:
+    with open("menu.json", "w", encoding="utf-8") as file:
         json.dump(menu, file, ensure_ascii=False, indent=4)
 
 # [1] 메뉴 보기
