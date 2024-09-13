@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/KH_basic" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "waterkong01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/waterkong01/KH_basic.git",
+    "accountId": "1f6acf55-dfc5-4b4a-ad18-f51036a6fe9b"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lsnNpziAJ6qKO825Qd3likwyri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.날짜와시간.executor": "Run",
+    "Python.내장함수.executor": "Run",
+    "Python.대소문자변환.executor": "Run",
+    "Python.딕셔너리.executor": "Run",
+    "Python.딕셔너리커피메뉴.executor": "Run",
+    "Python.리스트연습.executor": "Run",
+    "Python.문자열.executor": "Run",
+    "Python.문자열실습문제.executor": "Run",
+    "Python.반복문.executor": "Run",
+    "Python.반복문실습.executor": "Run",
+    "Python.별찍기.executor": "Run",
+    "Python.비밀번호만들기.executor": "Run",
+    "Python.비트연산자.executor": "Run",
+    "Python.상근날드.executor": "Run",
+    "Python.상근이알람.executor": "Run",
+    "Python.숫자의개수.executor": "Run",
+    "Python.아르바이트급여계산.executor": "Run",
+    "Python.연산자.executor": "Run",
+    "Python.외장함수.executor": "Run",
+    "Python.입력 예제.executor": "Run",
+    "Python.입출력.executor": "Run",
+    "Python.자료형.executor": "Run",
+    "Python.조건문.executor": "Run",
+    "Python.조건문응용.executor": "Run",
+    "Python.핸드폰요금.executor": "Run",
+    "Python.행사안내메일발송하기.executor": "Run",
+    "Python.홀수짝수나누어담기.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/dev/python/KH_basic",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="dev" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="dev" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="" />
+      <created>1725977616649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725977616649</updated>
+    </task>
+    <task id="LOCAL-00001" summary="+핸드폰요금.py">
+      <option name="closed" value="true" />
+      <created>1726206528272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726206528272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+핸드폰요금.py">
+      <option name="closed" value="true" />
+      <created>1726206600498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726206600498</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+핸드폰요금.py">
+      <option name="closed" value="true" />
+      <created>1726206784649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726206784649</updated>
+    </task>
+    <task id="LOCAL-00004" summary="240913 update">
+      <option name="closed" value="true" />
+      <created>1726210638455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726210638455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+핸드폰요금.py" />
+    <MESSAGE value="240913 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="240913 update" />
+  </component>
+</project>
