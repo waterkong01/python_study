@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update">
-      <change afterPath="$PROJECT_DIR$/python/KH_basic/튜플과집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/KH_basic/딕셔너리커피메뉴.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/KH_basic/딕셔너리커피메뉴.py" afterDir="false" />
-    </list>
+    <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/waterkong01/KH_basic.git",
+    "url": "https://github.com/waterkong01/python_study.git",
     "accountId": "1f6acf55-dfc5-4b4a-ad18-f51036a6fe9b"
   }
 }]]></component>
@@ -178,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726213368412</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="240913 update">
+      <option name="closed" value="true" />
+      <created>1726216324267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726216324267</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
