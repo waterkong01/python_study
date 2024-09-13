@@ -26,5 +26,3 @@ elif y < m: # 영식 요금제가 저렴할 때
     print(f"Y {y}원")
 else: # 요금이 같을 때
     print(f"M Y {m}원")
-
-# 12345
