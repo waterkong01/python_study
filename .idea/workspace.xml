@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update" />
+    <list default="true" id="8a33bf6c-52d9-492a-85f2-afac1fecda86" name="변경" comment="240913 update">
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/람다.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/아이패드만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/영화표예매.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/재귀함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/클로저와데코레이터.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/함수기본.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/KH_basic/함수실습문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/KH_basic/튜플과집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/KH_basic/튜플과집합.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,18 +44,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "waterkong01"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;waterkong01&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/waterkong01/python_study.git",
-    "accountId": "1f6acf55-dfc5-4b4a-ad18-f51036a6fe9b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/waterkong01/python_study.git&quot;,
+    &quot;accountId&quot;: &quot;1f6acf55-dfc5-4b4a-ad18-f51036a6fe9b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -65,6 +75,7 @@
     "Python.대소문자변환.executor": "Run",
     "Python.딕셔너리.executor": "Run",
     "Python.딕셔너리커피메뉴.executor": "Run",
+    "Python.람다.executor": "Run",
     "Python.리스트연습.executor": "Run",
     "Python.문자열.executor": "Run",
     "Python.문자열실습문제.executor": "Run",
@@ -77,14 +88,20 @@
     "Python.상근이알람.executor": "Run",
     "Python.숫자의개수.executor": "Run",
     "Python.아르바이트급여계산.executor": "Run",
+    "Python.아이패드만들기.executor": "Run",
     "Python.연산자.executor": "Run",
+    "Python.영화표예매.executor": "Run",
     "Python.외장함수.executor": "Run",
     "Python.입력 예제.executor": "Run",
     "Python.입출력.executor": "Run",
     "Python.자료형.executor": "Run",
+    "Python.재귀함수.executor": "Run",
     "Python.조건문.executor": "Run",
     "Python.조건문응용.executor": "Run",
+    "Python.클로저와데코레이터.executor": "Run",
     "Python.튜플과집합.executor": "Run",
+    "Python.함수기본.executor": "Run",
+    "Python.함수실습문제.executor": "Run",
     "Python.핸드폰요금.executor": "Run",
     "Python.행사안내메일발송하기.executor": "Run",
     "Python.홀수짝수나누어담기.executor": "Run",
@@ -182,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726216324267</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="240913 update">
+      <option name="closed" value="true" />
+      <created>1726216958162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726216958162</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
